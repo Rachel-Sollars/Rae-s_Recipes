@@ -1,1 +1,2 @@
 # Rae-s_Recipes
+This repository contains recipes I’ve developed through plenty of experimentation- and failure. Some of these might be familiar under different names, while others might just seem weird. The truth is, I hate following recipes, so half the time, I don’t even know what I’m making. I’m a devoted student of the *make it up as you go school of cooking*, which means I never bother measuring anything. Because of that, all measurements here are approximations- feel free to tweak them and make them your own.
